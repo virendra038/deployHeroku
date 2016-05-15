@@ -391,7 +391,7 @@ module.exports = function (grunt) {
     },
     heroku: {
       options: {
-        remote: 'git.heroku.com/fast-bayou-52004.git',
+        remote: 'git@heroku.com:git.heroku.com/fast-bayou-52004.git',
         branch: 'master',
         tag: pkg.version
       }
