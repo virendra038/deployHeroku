@@ -1,0 +1,1 @@
+"use strict";angular.module("deployHerokuApp",["ngResource"]),angular.module("deployHerokuApp").controller("MainCtrl",["$scope",function(a){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"]}]);
